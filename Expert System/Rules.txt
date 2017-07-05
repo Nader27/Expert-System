@@ -1,0 +1,165 @@
+Audio
+Sound Card can't be Detected
+Damaged or Sound Card Not Installed
+Replace Sound Card
+100
+Audio
+Driver Warning
+Driver Conflict or Incompatible Driver
+Install The Appropriate Driver
+100
+Audio
+Scratchy Sound
+Signal Interference
+Stay Away from Radio Frequency Sources
+100
+Audio
+Speaker or Microphone won't Work
+Incorrect Jacks
+Use Proper Jacks
+100
+BIOS
+Calendar-Related and Leap-Year Bugs.
+BIOS is out-of-date
+Upgrade Flash BIOS
+100
+BIOS
+Can't Install Flash BIOS Update
+BIOS is Write-Protected
+Disable Write-Protection
+100
+BIOS
+Can't Access BIOS
+BIOS is Password Protected
+Remove Password
+100
+Hard Disk
+Can't Access Full Capacity of Hard Drive over 8.4GB
+BIOS is Out-of-Date
+Upgrade BIOS
+100
+Hard Disk
+Can't Use UDMA Drives at Full Speed
+BIOS is Out-of-Date or Incompatible IDE Cable
+Upgrade BIOS or Replace IDE Cable
+100
+Hard Disk
+IDE Drive not Ready Errors During Startup
+Drive not Spinning Up Fast Enough at Startup
+Enable or Increase Hard Disk Predelay-time
+100
+Hard Disk
+Invalid Drive Specification Error
+Drive has not Been Partitioned
+Run FDISK to Create Valid Partitions
+100
+Hard Disk
+Invalid Media Type Error
+Drive not Yet Formatted
+Format your Drive
+100
+Hard Disk
+SMART Warning Displayed
+Serious Mechanical Problems are Detected
+Backup & Replace Your Drive
+100
+Keyboard
+Num Lock Stays Off when Starting System
+Num Lock Shut off in BIOS
+Turn on Num Lock in BIOS
+100
+Keyboard
+Intermittent Keyboard Failures
+Keyboard Cable or Keyboard Jack Might be Defective
+Test Keyboard Cable or Jack with Digital Multimeter
+100
+Keyboard
+Keys are Sticking
+Keyboard might have Spilled Drink or Trapped Debris under Keys
+Remove Keytops and Clean under Keys,or Wash-out Keyboard
+100
+Mouse
+Mouse can't be Detected
+Hardware Resource Conflict
+Use Windows Device Manager to Find Conflicts and Resolve them
+100
+Mouse
+Can't use PS/2 Mouse
+PS/2 Mouse Port Might be Disabled
+Enable PS/2 Mouse Port
+100
+Mouse
+Mouse Pointer Jerks Onscreen
+Mouse Ball or Rollers are Dirty
+Clean Mouse Mechanism
+100
+Mouse
+Mouse Works in Windows, but Not When Booted to DOS
+DOS Driver Must be Loaded from AUTOEXEC.BAT or CONFIG.SYS
+Install DOS Mouse Driver, and Reference it in Startup Files
+100
+Power Supply
+System Reboots
+Power Good Voltage Level out of Limits
+Check Power Supply with DMM , Replace Power Supply if Defective
+100
+Power Supply
+Power Supply Fails after Additional Components are Added to System
+New Components Require more 5V Power than Old Power Supply can Provide
+Replace Failed Unit with a 300-watt or Larger Unit
+100
+Power Supply
+Hard Disk or Fan won't Turn
+Defective or Overloaded Power Supply
+Replace Failed Unit with a 300-watt or Larger Unit
+100
+Power Supply
+No Leds, No Fans are Turn
+Defective Power Supply
+Replace Power Supply
+100
+Processor
+System won't Start After New Processor is Installed
+Processor not Properly Installed
+Reseat and Reinstall Processor and Heatsink
+100
+Processor
+Improper CPU Identification during POST
+Old BIOS
+Upgrade BIOS
+100
+Serial ATA
+Drives are not Recognized by System
+Some Systems have Disabled Serial ATA Ports
+Enable Onboard Serial ATA ports
+100
+Serial ATA
+Can't use Onboard Serial Port
+Port Might be Disabled in BIOS
+Enable Port
+100
+Serial ATA
+Conflict between Onboard Serial Port and other Device
+IRQ or I/O port Address Conflicts with other Device
+Adjust IRQ or I/O port Address in Use, or Disable Port
+100
+Startup
+No Live Screen But System is On
+Video Card Problem
+Replace your Video Card
+100
+Startup
+System Beeps Several Times
+Fatal Hardware Errors
+Check for Any Defective Hardware
+100
+Startup
+System Can't Find any Hard Drive
+Boot Priority Errors
+Set Hard Drive as the 1st Booting Device
+100
+Startup
+Computer won't Start After Installing Sound/Video/Network Card
+Conflict or Defective Hardware
+Remove all Connected Cards and Try Again
+100
